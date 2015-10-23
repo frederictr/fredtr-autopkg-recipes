@@ -11,7 +11,7 @@ Examples include 'en-US', 'tr'
 No idea if all Firefox builds are available in all the same localizations, so you may need to verify that any particular
 combination is offered.</string>
     <key>Identifier</key>
-    <string>com.github.frederictr.munki.firefox</string>
+    <string>com.github.frederictr.munki.firefox-tr</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_CATEGORY</key>
@@ -41,7 +41,7 @@ combination is offered.</string>
     <key>MinimumVersion</key>
     <string>0.2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.frederictr.munki.firefox</string>
+    <string>com.github.frederictr.download.firefox-tr</string>
     <key>Process</key>
     <array>
         <dict>
